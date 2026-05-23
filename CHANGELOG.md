@@ -146,5 +146,9 @@
 - fixed curved animations and sub sequent pages
 - Added helper functions for easy navigations!
 
-## 
+## [2.2.2] - Fix Flutter upgrade issue
+
+- Fix build error by importing CupertinoPageTransitionsBuilder explicitly.
+- Update Dart SDK version requirements.
+
 ## [2.2.1] - added axis transiiton and added performance notes

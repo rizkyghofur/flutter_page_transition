@@ -1,6 +1,7 @@
 library page_transition;
 
 import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart' show CupertinoPageTransitionsBuilder;
 
 import 'enum.dart';
 
